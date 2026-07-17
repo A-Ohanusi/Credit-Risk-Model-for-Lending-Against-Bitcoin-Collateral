@@ -1,0 +1,7 @@
+Week 4 log
+ 6/7/2026
+Completed the financial data collection and master Excel dataset for 20 Bitcoin-holding companies.
+Defined economic default and LTV for the project.
+Continued developing the baseline Merton credit-risk model.
+Researched Jump-Diffusion, Heston and CGMY, deciding to drop CGMY.
+Implemented the Merton Jump-Diffusion model, estimated parameters from historical Bitcoin data and simulated future BTC price paths.
