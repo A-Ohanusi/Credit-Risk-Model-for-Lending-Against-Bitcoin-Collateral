@@ -1,0 +1,8 @@
+Week 5 log 
+13/07/2026
+Implemented the Heston stochastic volatility model and estimated its parameters using Bitcoin data.
+Compared Heston and Jump-Diffusion, including BTC price outcomes, crash probabilities and downside risk.
+Compared the models' effects on Bitcoin collateral value, LTV and LGD.
+Developed the framework for integrating Bitcoin price risk with borrower PD and the Merton structural credit model.
+Decided to use 30%, 50% and 70% LTV scenarios for lending analysis.
+Investigated using an analytical/semi-analytical approach for PD, with Monte Carlo retained for collateral stress and LGD.
